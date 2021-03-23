@@ -13,3 +13,7 @@ function onEdit() {
       date_time.setValue('')
     }
 }
+
+/*
+  To Make this applicable to all sheets in a single file > var sheet = SpreadsheetApp.getActiveSheet();
+*/
