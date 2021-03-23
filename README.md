@@ -1,3 +1,3 @@
 # Google Sheets: Date & Time
 
-Add current date + time to each entry.
+Automatically add current date + time to each entry.
