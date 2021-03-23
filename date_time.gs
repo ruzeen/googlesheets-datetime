@@ -10,7 +10,7 @@ function onEdit() {
 
     // If row on 1st column is erased, delete date/time on that row
     if(active.isBlank()) {
-      date_time.setValue('')
+      date_time.setValue('');
     }
 }
 
