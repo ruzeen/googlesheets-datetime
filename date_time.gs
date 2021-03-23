@@ -14,6 +14,4 @@ function onEdit() {
     }
 }
 
-/*
-  To Make this applicable to all sheets in a single file > var sheet = SpreadsheetApp.getActiveSheet();
-*/
+// To Make this applicable to all sheets in a single file > var sheet = SpreadsheetApp.getActiveSheet();
